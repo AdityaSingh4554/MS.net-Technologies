@@ -6,9 +6,6 @@
   
 <h3 align="center">A CRUD-based Employee Management API using ASP.NET Core, integrated with SQL Server and Swagger for seamless API management and documentation.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username= AdityaSingh&label=Project%20views&color=0e75b6&style=flat" alt=" Aditya Singh" />
-</p>
 
 - 🚀 *How to Run*  
   1. Clone the repository:  
